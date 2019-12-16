@@ -15,12 +15,9 @@ $ npm install
 $ npm run start
 ```
 
-## Test the app
-
+## Change Database Connection
 ```bash
-# start
-$ npm run start
-
+# src/database/database.provider.ts
 ```
 
 ## License
